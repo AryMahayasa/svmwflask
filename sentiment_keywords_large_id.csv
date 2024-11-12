@@ -1,0 +1,598 @@
+positive_keywords,negative_keywords
+baik,buruk
+cepat,jelek
+memuaskan,emosi
+suka,terlambat
+puas,masalah
+bagus,tidak
+terima kasih,kesal
+helpful,gagal
+mantap,kekurangan
+recommended,sulit
+terpercaya,kecewa
+ramah,lambat
+menyenangkan,mengecewakan
+memudahkan,lemot
+efisien,ribet
+terbaik,tidak puas
+luar biasa,menyebalkan
+excellent,parah
+perfect,payah
+reliable,cacat
+proses cepat,rusak
+respon cepat,batal
+top,hilang
+profesional,salah
+nyaman,error
+bersih,tidak berfungsi
+hemat,tidak berguna
+praktis,tidak membantu
+menguntungkan,menjengkelkan
+menakjubkan,marah
+murah,kacau
+mudah,nggak suka
+responsif,jengkel
+solutif,bete
+hebat,sial
+terima kasih banyak,kapok
+senang,menyesal
+gembira,biaya mahal
+amazing,tidak sesuai
+wow,tak berguna
+apresiasi,menipu
+brilian,merugikan
+superb,kebingungan
+fleksibel,bingung
+bantu,tidak jelas
+support,penipuan
+paling baik,kerugian
+efektif,menyedihkan
+great,melampaui batas
+bagus sekali,kurang ajar
+canggih,tidak profesional
+unggul,arogan
+respons,sulit sekali
+sangat membantu,sebel
+fantastis,malas
+bahagia,lelet
+memuaskan sekali,dihindari
+puas sekali,frustrasi
+friendly,menyulitkan
+fast,kurang
+enak,tidak akurat
+top banget,sangat buruk
+no 1,menyusahkan
+top markotop,sampai kapan
+keren,tidak beres
+berkualitas,lemah
+worth it,kacau balau
+happy,mati
+menawan,jatuh kualitas
+senang sekali,tidak efektif
+terpercaya banget,salah besar
+memuaskan hati,mahal banget
+pengiriman sangat cepat,overpriced
+sangat puas,masih salah
+recommended banget,tidak stabil
+sukses terus,tidak kompeten
+terimakasih banyak,tidak memuaskan
+hasil maksimal,delay
+solusi terbaik,terlalu lama
+bermanfaat,tidak tepat waktu
+memberi inspirasi,kurang responsif
+optimis,pelayanan buruk
+tingkat lanjut,tidak ada respon
+memenuhi kebutuhan,dibiarkan
+juara,tidak ditindaklanjuti
+paling keren,pelayanan mengecewakan
+extraordinary,tidak ramah
+sangat rekomendasi,tidak ada solusi
+top notch,tidak tuntas
+best service,komplain diabaikan
+solid,tidak diproses
+worth every penny,keluhan diabaikan
+penyelesaian cepat,proses lama
+murah hati,tidak sesuai janji
+keunggulan,belum selesai
+very helpful,tidak hadir
+sangat efektif,tidak memuaskan
+tiada tanding,tidak ada perkembangan
+highly appreciated,informasi palsu
+bangga sekali,tidak sesuai harapan
+sangat puas sekali,tidak bertanggung jawab
+tidak kecewa,tidak ada perubahan
+pas banget,mengabaikan
+mengagumkan,pelayanan lambat
+nyaman banget,tidak update
+menyenangkan sekali,tidak ada komunikasi
+luar biasa sekali,tidak profesional
+fabulous,ketidakjelasan
+spektakuler,barang rusak
+fantastis sekali,belum dikirim
+total support,tidak sampai
+membantu banget,salah kirim
+love it,barang tertunda
+tak terkalahkan,kurang jelas
+benar-benar bermanfaat,tidak ada penjelasan
+,respons lama
+,diminta tunggu
+,tidak peduli
+,diabaikan
+,tidak mengerti
+,tidak membantu sama sekali
+,tidak ada info
+,tidak ada kepastian
+,tidak kooperatif
+,tidak ramah sama sekali
+,tidak diterima
+,tidak sesuai deskripsi
+,tidak layak
+,tidak aman
+,menunggu terlalu lama
+,tidak worth it
+,pengalaman buruk
+,tidak konsisten
+,tidak diperbaiki
+,tidak ada perbaikan
+,tidak sesuai ekspektasi
+,tidak terawat
+,tidak ada tindak lanjut
+,menunggu tanpa hasil
+,tidak ada follow-up
+,tidak memuaskan sekali
+,kecewa berat
+,tidak ada kejelasan
+bangkit,kecewa sekali
+harapan,tidak direkomendasikan
+menginspirasi,buang-buang waktu
+pujian,tidak layak
+rasa hormat,membingungkan
+sangat membantu sekali,bikin pusing
+solusi,merusak mood
+terbantu,tidak nyaman
+nyaman di hati,sangat tidak puas
+senyuman,pengalaman buruk
+kreatif,service buruk
+cerdas,tidak worth it
+sangat baik,perlu perbaikan
+membahagiakan,tidak bisa dipercaya
+luar biasa cepat,pelayanan lambat
+sangat responsif,bikin kesal
+tak terkalahkan,mahal dan buruk
+highly recommended,overpriced
+best ever,terlalu mahal
+tidak ada lawan,membosankan
+kualitas nomor satu,susah diakses
+terjangkau,tidak memuaskan sekali
+ramah di kantong,tidak aman sama sekali
+solusi jitu,tidak jelas arah
+harga bersahabat,tidak lengkap
+kualitas istimewa,tidak profesional
+layak dicoba,sulit dimengerti
+pengalaman menyenangkan,pelayanan tidak maksimal
+mantap sekali,tidak memberi solusi
+hebat sekali,tidak konsisten
+pasti puas,tidak ada follow-up
+layanan top,sangat mengecewakan
+prima,tidak sesuai ekspektasi
+layanan cepat,pelayanan kurang
+serba cepat,kurang efisien
+hemat waktu,lelah menunggu
+sangat efektif sekali,sulit dihubungi
+sangat fleksibel,tidak peduli
+istimewa,dibiarkan begitu saja
+unggulan,tidak sopan
+tak ternilai,menyebalkan sekali
+sesuai harapan,tidak serius
+kualitas tinggi,tidak membantu sama sekali
+layak dipercaya,tidak ada niat baik
+fantastic,sangat lambat
+tak terbandingkan,menunggu lama sekali
+keren banget,tidak terawat
+berkualitas banget,merugikan sekali
+,kualitas buruk
+,tidak sesuai deskripsi
+,tidak profesional sama sekali
+,penuh kesalahan
+,penanganan tidak tepat
+,sangat mengesalkan
+,tidak layak dicoba
+,benar-benar mengecewakan
+solid teamwork,very disappointing
+responsive staff,false information
+easy setup,not worth it
+worth the value,overcharged
+high quality,lackluster
+absolutely perfect,waste of money
+best choice,difficult to reach
+glad,completely unhelpful
+trustworthy,broken
+extremely happy,damaged
+very helpful support,worst experience
+strongly recommend,misleading
+always reliable,horrible
+on point,never again
+smooth process,not working
+totally worth it,totally unacceptable
+extremely helpful,no support
+five stars,pathetic
+incredible,rude staff
+pleased,waiting forever
+super reliable,abandoned
+very clean,flawed
+convenient,useless
+generous,unprofessional
+efficient,chaotic
+heartwarming,painful
+delighted,badly managed
+best investment,completely ignored
+comforting,mismanaged
+thoughtful,pointless
+best quality,completely useless
+beyond expectations,total disaster
+flawless,never again
+on time,awful
+easy to use,rip off
+worth every penny,not acceptable
+super satisfied,nonresponsive
+strongly suggest,poor quality
+fully reliable,terrible service
+best service ever,never answered
+super friendly,abysmal
+will come back,false claims
+amazing experience,felt cheated
+well done,not happy
+thank you very much,super slow
+easy transaction,lousy
+excellent product,underwhelming
+highly beneficial,shady
+love the support,subpar
+very convenient,horrendous
+no regrets,incompetent
+life saver,inexcusable
+well worth it,extremely bad
+all good,saddening
+smooth operation,overrated
+highly favorable,far from expectations
+positive vibes,poorly executed
+very pleased,frustrating
+reliable service,very slow
+super effective,deceptive
+very affordable,no solution
+painless,terrible
+seamless,unfulfilled promises
+outstanding performance,very inconvenient
+polite,highly priced
+easy booking,lacking
+hassle-free,deficient
+superb quality,not dependable
+nice attitude,crappy
+thankful,let down
+reliable team,scam
+easy access,shocking
+great deal,grossly overpriced
+all-time best,sickening
+peaceful,infuriating
+highly trustable,ruined
+helpful guidance,pathetic response
+perfectly managed,no follow-up
+great job,no feedback
+totally pleased,empty promises
+kind staff,made things worse
+very professional,very weak
+trustworthy choice,horrific
+exceptionally helpful,misled
+well worth the wait,untrustworthy
+attentive,upsetting
+prompt response,very lazy
+top rated,despicable
+loved it,regretful
+all positive,terrible quality
+remarkably fast,disrespectful
+very easy,abominable
+safe,bad attitude
+high standard,absurd
+truly convenient,exorbitant
+really good,thoroughly disappointing
+best offer,extremely poor
+out of this world,overwhelmed
+enjoyable,bitter
+smooth service,unsatisfactory
+accurate,worthless
+supportive,useless
+fantastic support,displeased
+recommended always,very unreliable
+perfect service,distressing
+ideal,scammed
+all you need,offensive
+suitable,no progress
+fair price,no accountability
+top performance,felt betrayed
+delivers as promised,disorganized
+professional work,just awful
+super service,distrust
+valuable,terribly slow
+efficient service,impossible to reach
+always delivers,failing
+worry-free,regretful
+super good,unsupportive
+zero hassle,tedious
+world class,undependable
+exceptional quality,unhelpful staff
+complete satisfaction,hopeless
+amazing support,ridiculous
+super happy,dishonest
+excellent choice,chaotic
+blessed,substandard
+super experience,terrible taste
+really pleased,feels cheated
+made my day,very uncomfortable
+number one,totally wrong
+very kind,very careless
+very respectful,deeply dissatisfied
+well organized,lacking transparency
+very good service,completely off
+honest,feels abandoned
+reliable partner,no follow-up
+decent,mistreated
+highly regarded,very disorganized
+completely satisfied,utterly worthless
+great outcome,misguided
+friendly staff,extremely disappointing
+highly recommended,disturbing
+impressive service,very unsatisfied
+very affordable,frustration
+well worth the price,deep regret
+a must have,terribly managed
+highly regarded,hard to trust
+user-friendly,not recommended
+feels great,felt misled
+exceptional support,disgrace
+outstanding help,offensive
+very favorable,mistaken
+impressive quality,lost trust
+clear guidance,felt unwanted
+very clear,deplorable
+super professional,severely lacking
+excellent timing,not recommended
+prompt,unworthy
+bright future,lack of care
+outstanding customer service,seriously overpriced
+well-maintained,felt insulted
+ideal choice,worn out
+gratitude,felt disrespected
+amazing quality,overly complicated
+efficiently handled,not reliable
+best of the best,felt undervalued
+gold standard,annoyed
+helpful advice,very rude
+secure,appalling
+the best,not respectful
+very smooth,total disappointment
+full support,inexcusable
+right on time,terribly executed
+pure excellence,very disturbing
+works perfectly,felt taken advantage
+enjoyed it,wasted time
+super convenient,horrible experience
+life-changing,bothersome
+very suitable,inferior quality
+fabulous job,extremely unpleasant
+no problem,felt swindled
+all is well,not respectful
+appreciative,horrible customer service
+friendly atmosphere,not even worth trying
+really smooth,huge letdown
+best ever,terribly executed
+super appreciative,
+a delight,
+kind-hearted,
+very dependable,
+well organized,
+very flexible,
+really helpful,
+no issues,
+likeable,
+beneficial,
+top service,
+very organized,
+dependable,
+very well done,
+very grateful,
+forever thankful,
+nothing to complain,
+perfect choice,
+timely support,
+well executed,
+smooth transition,
+wonderful experience,
+first-rate,
+super supportive,
+greatly pleased,
+ideal service,
+proud,
+thankful for help,
+very responsive,
+right solution,
+super affordable,
+outstanding,
+extremely quick,
+awesome experience,
+best support,
+really effective,
+appreciative of,
+super smooth,
+super quick,
+reliable and fast,
+really reliable,
+keberhasilan,sangat mengecewakan
+kemudahan akses,tidak seperti yang dijanjikan
+harga sesuai,tidak worth it
+mudah digunakan,terlalu mahal
+pelayanan ramah,menyesal sekali
+kualitas memuaskan,produk tidak sesuai
+cepat tanggap,tidak berfungsi
+bantu banget,kesulitan akses
+mudah dipahami,tidak ada solusi
+luar biasa ramah,tidak sesuai deskripsi
+sangat direkomendasikan,proses terlalu lama
+sangat responsif,sangat lambat
+memenuhi ekspektasi,tidak efektif
+terpercaya,tidak bisa diandalkan
+produk bagus,produk jelek
+puas maksimal,tidak memuaskan
+pengalaman positif,sangat tidak direkomendasikan
+ramah lingkungan,bikin marah
+memberi inspirasi,tidak ada hasil
+hasil baik,terlalu ribet
+sangat cepat,pelayanan buruk
+proses mudah,tidak membantu sama sekali
+tanggap dan cepat,tidak bertanggung jawab
+layanan konsisten,terlalu susah
+ramah banget,tidak ramah
+praktis,tidak ada tindak lanjut
+terjangkau,kualitas rendah
+sangat mendukung,barang rusak
+benar-benar bagus,tidak berguna
+sangat ekonomis,produk gagal
+layanan memuaskan,tidak layak
+profesional sekali,tidak profesional
+kualitas bagus,penyelesaian buruk
+bintang lima,tidak cepat tanggap
+sangat membantu,pelayanan mengecewakan
+ramah sekali,sangat mahal
+mudah diakses,tidak sesuai ekspektasi
+terbaik di kelasnya,penanganan lambat
+rekomendasi kuat,produk cacat
+nilai tinggi,tidak puas sama sekali
+memberi solusi,penyelesaian lambat
+membantu secara maksimal,tidak ada follow up
+sangat menyenangkan,tidak jelas
+puas dan senang,tidak beres
+berkualitas tinggi,produk buruk
+keputusan terbaik,kurang berkualitas
+layanan sempurna,tidak responsif
+pilihan tepat,pelayanan lambat
+pelayanan oke,harga terlalu tinggi
+dapat diandalkan,tidak memuaskan
+pelayanan bagus,tidak ada perhatian
+sangat terjangkau,produk sangat mengecewakan
+produk berkualitas,tidak layak dibeli
+nyaman digunakan,produk tidak sesuai janji
+ramah pengguna,tidak bisa dipakai
+mudah dipesan,tidak praktis
+sangat berfaedah,sulit digunakan
+sangat murah hati,penanganan tidak memuaskan
+luar biasa cepat,proses rumit
+sangat direkomendasikan,barang terlambat
+sangat andal,tidak sesuai
+proses aman,proses tidak jelas
+ramah banget,pelayanan tidak baik
+sangat terhormat,produk mengecewakan
+senang sekali,tidak nyaman
+sangat memuaskan,kualitas buruk
+pasti puas,proses lama sekali
+sangat nyaman,tidak worth it sama sekali
+tidak ada keluhan,barang hilang
+sangat cocok,barang tidak sampai
+bagus banget,produk rusak
+kualitas sangat baik,harga mahal
+sangat worth it,proses berbelit
+pantas dicoba,kinerja lambat
+mudah dan nyaman,tidak bermanfaat
+terbaik di bidangnya,produk salah
+bisa dipercaya,tidak kompeten
+mengesankan,pelayanan buruk
+produk unggulan,komunikasi kurang
+harganya pas,tidak ada kepastian
+mudah diatur,penanganan buruk
+layanan profesional,tidak ada perkembangan
+luar biasa ramah,tidak ramah pelanggan
+tidak ada masalah,tidak memadai
+sangat mendukung,tidak sepadan
+reliable sekali,produk mengecewakan
+nyaman sekali,tidak worth it sama sekali
+tidak mengecewakan,kualitas menurun
+layak dipercaya,tidak efisien
+produk handal,tidak sesuai harapan
+kualitas terjamin,tidak ada perbaikan
+bermanfaat sekali,produk ketinggalan zaman
+sangat fleksibel,tidak layak sama sekali
+memenuhi kebutuhan,tidak disarankan
+aman sekali,tidak sesuai janji
+produk solid,tidak profesional sama sekali
+semua baik,proses membosankan
+produk bagus banget,tidak ada respons
+top service,kinerja lambat
+nyaman banget,tidak puas
+ekstra cepat,proses terlalu lama
+sangat cepat,sangat lambat
+membantu sekali,tidak bisa diandalkan
+efisien sekali,sangat mahal
+penanganan profesional,tidak layak sama sekali
+sangat tepat waktu,sangat tidak puas
+produk luar biasa,tidak sesuai deskripsi
+produk worth it,tidak memberikan solusi
+selalu memuaskan,produk sangat buruk
+ekonomis sekali,tidak sesuai ekspektasi
+harganya terjangkau,sangat tidak memadai
+layak dipilih,pelayanan tidak menyenangkan
+mudah digunakan,tidak jelas arah
+sangat nyaman,produk cacat
+ramah sekali,tidak layak dibeli
+produk luar biasa,produk tidak aman
+luar biasa bermanfaat,penanganan sangat lambat
+praktis banget,tidak sesuai janji
+produk murah,proses menyulitkan
+pelayanan bintang 5,sangat mengecewakan
+paling rekomendasi,tidak bisa dipercaya
+produk aman,tidak ada kepastian
+produk yang sangat bagus,proses berbelit
+mudah sekali digunakan,barang cacat
+harga bagus,penanganan buruk
+sangat disarankan,produk sangat mengecewakan
+ramah pelanggan,sangat menyulitkan
+cepat prosesnya,tidak memadai
+bantu banget,sangat lambat
+dapat dipercaya,tidak worth it sama sekali
+produk elegan,harga mahal
+ekspres,produk jelek
+mudah dipesan,tidak ada kejelasan
+ramah banget,kualitas rendah
+sangat senang,tidak efektif
+bikin nyaman,tidak sesuai ekspektasi
+sangat murah,tidak puas
+memuaskan hati,tidak profesional sama sekali
+ramah lingkungan,kinerja sangat lambat
+produk terbaik,penanganan tidak baik
+pelayanan bagus banget,proses mengecewakan
+luar biasa mendukung,kualitas sangat buruk
+produk berkualitas tinggi,tidak sesuai harapan
+ramah sekali,sangat lambat
+produk nyaman,tidak memuaskan
+puas sekali,produk mengecewakan
+proses gampang,pelayanan tidak ramah
+keputusan terbaik,kualitas rendah
+pengalaman memuaskan,sangat tidak worth it
+dapat diandalkan,proses sangat lambat
+layak dicoba,pelayanan tidak efisien
+puas banget,
+senang sekali,
+kualitas sangat baik,
+top banget,
+nilai yang tinggi,
+produk ramah pengguna,
+baik sekali,
+cepat banget,
+produk paling aman,
+layanan memuaskan,
+ekonomis dan praktis,
+produk yang luar biasa,
+hemat waktu,
+sangat nyaman,
+aman dan terpercaya,
+produknya sangat baik,
+produk praktis,
+kualitas luar biasa,
+pengalaman menyenangkan,
+mudah sekali,
